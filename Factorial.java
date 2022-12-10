@@ -4,7 +4,7 @@ import java.util.Scanner;
 class Factorial{  
  public static void main(String[] args) {
    Scanner obj =new Scanner(System.in);
-   System.out.println("Enter the Number:");
+   System.out.print("Enter the Number:");
    int number=obj.nextInt();
    int fact=1;
    //using for loop
