@@ -1,4 +1,5 @@
 //Day-5
+//Let's see the factorial Program using loop in java.
 import java.util.Scanner;
 class Factorial{  
  public static void main(String[] args) {
