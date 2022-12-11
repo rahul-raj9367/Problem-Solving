@@ -25,6 +25,5 @@ class PrimeNumber1{
 		CheckPrime(3);
 		CheckPrime(6);
 		CheckPrime(17);
-
 	}
 }
