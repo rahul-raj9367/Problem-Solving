@@ -1,5 +1,5 @@
 //Day-4
-//Here,user has to put the Number as input to check if the Number is palindrome or Not. 
+//Here,user has to put the Number as input to check if the Number is palindrome or Not palindrome. 
 import java.util.Scanner;
 class Palinodrome{
 	public static void main(String[] args) {
