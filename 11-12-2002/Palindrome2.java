@@ -1,5 +1,5 @@
 //Day-6
-//Here,user has to put the string as input to check if the string is palindrome. 
+//Here,user has to put the string as input to check if the string is palindrome or Not palindrome. 
 import java.util.Scanner;
 class Palindrome2{
 	public static void main(String[] args) {
