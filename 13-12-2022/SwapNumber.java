@@ -9,9 +9,7 @@ class SwapNumber{
 		x=obj.nextInt();
 		System.out.print("Enter the y value:");
 		y=obj.nextInt();
-		
 		System.out.println("Before swapping numbers: X="+x +" Y="+y); 
-
 		temp=x;
 		x=y;
 		y=temp;
