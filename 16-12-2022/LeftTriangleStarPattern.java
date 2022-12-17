@@ -6,7 +6,7 @@ class LeftTriangleStarPattern{
 		//outer loop for rows 
 		for(i=0;i<5;i++){
 			//inner loop work for space
-			for(j=1;j<=2*(row-i);j++){
+			for(j=1;j<2*(row-i);j++){
 				System.out.print(" ");
 			}
 			//inner loop for columns  
