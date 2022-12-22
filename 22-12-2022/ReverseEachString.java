@@ -8,7 +8,7 @@ class ReverseEachString{
 		String str1=obj.nextLine();
 
 		String sp[] =str1.split(" ");
-		//[Good,Evening]
+		//[Good,Evening] Length-2,IndexPosition-0,1
 		String revstring="";
 	
 		for(int i=0;i<sp.length;i++){
