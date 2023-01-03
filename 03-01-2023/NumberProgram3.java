@@ -16,10 +16,10 @@ class NumberProgram3{
 		}
 		int lastdigits =(int)(square%(Math.pow(10,count)));
 		if(lastdigits==num){
-			System.out.println("The given number is Automorphic number "+lastdigits);
+			System.out.println("The given number is Automorphic number "+num);
 		}
 		else{
-			System.out.println("The given number is Not Automorphic number "+lastdigits);
+			System.out.println("The given number is Not Automorphic number "+num);
 		}
 		
 
@@ -31,7 +31,7 @@ Enter The Number :25
 The given number is Automorphic number 25
 
 Enter The Number :12
-The given number is Not Automorphic number 44
+The given number is Not Automorphic number 12
 
 
 */
