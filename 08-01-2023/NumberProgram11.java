@@ -1,6 +1,6 @@
 //Day-34
 //Number Program
-//Keith Number
+//Keith Number =>19 =>1+9 =10 +9 =>19
 import java.util.*;
 class NumberProgram11{
 	public static void main(String[] args) {
