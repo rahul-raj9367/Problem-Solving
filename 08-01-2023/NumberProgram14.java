@@ -1,6 +1,6 @@
 //Day-34
 //Number Program
-//EMIRP Number
+//EMIRP Number = >twisted  Prime Number
 import java.io.*;
 import java.util.*;
 class NumberProgram14{
@@ -34,3 +34,11 @@ class NumberProgram14{
 		System.out.println("No, the given number is not an emirp number.");  
 	}
 }
+/*
+OUTPUT
+Enter a number to check: 13
+Yes, the given number is an emirp number.
+
+Enter a number to check: 15
+No, the given number is not an emirp number.
+*/
