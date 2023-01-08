@@ -5,7 +5,7 @@ import java.util.*;
 class NumberProgram11{
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		System.out.println("Enter The Number:");
+		System.out.print("Enter The Number:");
 		int n =sc.nextInt();
 		ArrayList<Integer> arr = new ArrayList<Integer>();
 		int temp =n,sum=0,start=0;
@@ -29,3 +29,8 @@ class NumberProgram11{
 		}
 	}
 }
+/*
+OUTPUT
+Enter The Number: 19
+yes is a Keith Number
+*/
