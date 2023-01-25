@@ -18,7 +18,13 @@ class NumberProgram38{        //6
 		int number = sc.nextInt();//10
 		System.out.println("fibseries ");
 		for(int i=0;i<number;i++){
-			System.out.print(fibseries(i)+" ");// 0 1 1 2 3 5 8 13 21 34 
+			System.out.print(fibseries(i)+" ");
 		}
 	}
 }
+/*
+OUTPUT
+Enter the Number :10
+fibseries
+0 1 1 2 3 5 8 13 21 34 
+*/
