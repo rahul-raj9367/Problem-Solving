@@ -1,4 +1,4 @@
-//Day-56
+//Day-57
 //Array Program
 //Reverse the each elemnt of the array and then print the elemnt in descending order
 class ArrayProgram24{
