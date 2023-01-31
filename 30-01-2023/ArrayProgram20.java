@@ -1,4 +1,4 @@
-//Day-55
+//Day-56
 //Array Program
 //Java Program to find Second Smallest Number in an Array
 class ArrayProgram20{
