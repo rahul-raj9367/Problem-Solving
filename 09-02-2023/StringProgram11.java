@@ -1,4 +1,4 @@
-//Day-65
+//Day-66
 //String Program
 //Java Program to remove all the white spaces from a string
 class StringProgram11{
