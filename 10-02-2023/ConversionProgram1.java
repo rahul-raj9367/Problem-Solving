@@ -1,4 +1,4 @@
-//Day-66
+//Day-67
 //Conversion Programs
 //Java Convert String to int
 class ConversionProgram1{
