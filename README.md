@@ -1,3 +1,3 @@
 # Problem-Solving
-100 days Problem Solving using Java
+500 days Problem Solving using Java
 
