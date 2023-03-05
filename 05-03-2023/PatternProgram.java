@@ -1,4 +1,4 @@
-//Day 89
+//Day 88
 //Java program to print the following pattern on the console
 class PatternProgram{
 	public static void main(String[] args) {
