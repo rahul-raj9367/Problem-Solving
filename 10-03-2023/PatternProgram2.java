@@ -1,4 +1,4 @@
-//Day 91
+//Day 92
 //StartPattern Program
 class PatternProgram2{
 	public static void main(String[] args) {
