@@ -1,4 +1,4 @@
-//Day-109
+//Day-110
 //NumberPattern
 class NumberPattern2{
 	public static void main(String[] args) {
